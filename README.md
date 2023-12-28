@@ -9,7 +9,8 @@ BlueFish is a Python-based automation tool designed to simplify the analysis of 
 * Retrieves embedded objects from network traffic.
 * Identifies email addresses and HTTP requests.
 * Provides insights into protocols, DNS queries, ICMP packets, SMB operations, FTP sessions, and TLS handshakes.
-* BlueFish streamlines the process of PCAP analysis, making it easier for security professionals and network analysts to gain insights into network activities.
+
+BlueFish streamlines the process of PCAP analysis, making it easier for security professionals and network analysts to gain insights into network activities.
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
       $ pip install subprocess.run
