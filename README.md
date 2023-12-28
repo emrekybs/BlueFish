@@ -11,6 +11,14 @@ BlueFish is a Python-based automation tool designed to simplify the analysis of 
 * Provides insights into protocols, DNS queries, ICMP packets, SMB operations, FTP sessions, and TLS handshakes.
 * BlueFish streamlines the process of PCAP analysis, making it easier for security professionals and network analysts to gain insights into network activities.
 
+# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
+      $ pip install subprocess.run
+      $ pip install os-sys
+      $ git clone https://github.com/emrekybs/BlueFish.git
+      $ cd BlueFish
+      $ chmod +x BlueFish.py 
+      $ python3 BlueFish.py 
+     
 <img src="https://github.com/emrekybs/BlueFish/blob/main/1.png">
 <img src="https://github.com/emrekybs/BlueFish/blob/main/2.png">
 <img src="https://github.com/emrekybs/BlueFish/blob/main/3.png">
