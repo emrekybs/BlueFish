@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Angelus-blue)
 # BlueFish
 
 <img src="https://github.com/emrekybs/BlueFish/blob/main/bluefish.png">
