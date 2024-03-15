@@ -17,7 +17,7 @@ BlueFish streamlines the process of PCAP analysis, making it easier for security
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
       $ pip install subprocess.run
       $ pip install os-sys
-      $ git clone https://github.com/emrekybs/BlueFish.git
+      $ git clone https://github.com/bloodbane0/BlueFish.git
       $ cd BlueFish
       $ chmod +x BlueFish.py 
       $ python3 BlueFish.py 
